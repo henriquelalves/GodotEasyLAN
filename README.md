@@ -1,4 +1,7 @@
 # EasyLAN
+
+*For more addons, check [my GitHub](https://github.com/henriquelalves) and [my itch.io](https://perons.itch.io/) page.*
+
 This is a Godot Addon to easily connect devices on the same LAN network.
 
 ## How it works
